@@ -4,11 +4,35 @@
 	padding:0px;
 	margin:0px;
 }
-.navbar h2{
+.header h2{
 	display:flex;
 	justify-content:center;
 	color:white;
 	background-color:#011e29;
 	height:100px;
 	align-items:center;
+}
+.unorder{
+	padding:0px 40px;
+}
+	
+}
+.latest-news-section{
+	width:300px;
+	height:400px;
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.latest-news-section h2{
+	font-size:20px;
+  padding:0px 10px;
+}
+.para h2{
+	font-size:20px;
+  padding:0px 10px;
+}
+.para{
+	width:400px
+}
+.lipsum{
+	width:300px
 }
