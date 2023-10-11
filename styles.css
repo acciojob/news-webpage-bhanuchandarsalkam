@@ -23,20 +23,33 @@
 	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 .latest-news-section h2{
-	font-size:20px;
+	font-size:15px;
   padding:0px 10px;
 }
 .para h2{
-	font-size:20px;
+	font-size:15px;
   padding:0px 10px;
 }
 .para{
-	width:400px
+	width:300px;
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 .lipsum{
-	width:300px
+	padding:0px 10px;
+	width:280px
 }
 img{
 	width:200px;
 	height:100px;
+}
+.container{
+	margin:10px;
+	display:flex;
+	gap:10px;
+}
+h3{
+	font-size:15px;
+}
+.pictorial-news-section{
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
